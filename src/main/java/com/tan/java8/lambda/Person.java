@@ -1,4 +1,4 @@
-package com.tan.java8.lamda;
+package com.tan.java8.lambda;
 
 import java.time.LocalDate;
 

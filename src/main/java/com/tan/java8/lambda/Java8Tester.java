@@ -1,4 +1,4 @@
-package com.tan.java8.lamda;
+package com.tan.java8.lambda;
 
 public class Java8Tester {
     public static void main(String args[]){
